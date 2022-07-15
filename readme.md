@@ -1,5 +1,5 @@
 ## Hi, my name is Rodrigo! ✌
-### 🔭 Currently working with HTML and CSS
+### 🔭 Currently working with HTML, CSS and JAVASCRIPT
 
 <div>
   <a href="https://github.com/rodrigueira97">
