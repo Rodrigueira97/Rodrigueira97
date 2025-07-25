@@ -13,6 +13,8 @@
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ReactJS" height="30" width="40" src="https://www.svgrepo.com/show/303500/react-1-logo.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg">
 </div>
 
 ##
