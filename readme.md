@@ -1,5 +1,5 @@
 ## Hi, my name is Rodrigo! ✌
-### 🔭 Currently working with HTML, CSS and JS
+### 🔭 Currently working with ReactJs, NextJs, Node and NestJs
 
 <div>
   <a href="https://github.com/rodrigueira97">
