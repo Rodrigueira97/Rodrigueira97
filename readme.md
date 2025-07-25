@@ -1,5 +1,7 @@
-## Hi, my name is Rodrigo! ✌
-### 🔭 Currently working with ReactJs, NextJs, Node and NestJs
+## Olá, eu sou o Rodrigo Xavier! ✌
+### 🔭 Como desenvolvedor full stack, contribuo para o desenvolvimento e manutenção de aplicativos mobile com React Native, além de criar interfaces modernas utilizando React e Next. Trabalho com microserviços em NestJS, Docker e CI/CD, priorizando escalabilidade e resiliência. Também atuei na criação de dashboards administrativos, otimizando a eficiência operacional.  
+
+Sou graduado em Análise e Desenvolvimento de Sistemas pela UNINOVE, com formação complementar pela Rocketseat em desenvolvimento de software. Meu objetivo é criar soluções tecnológicas inovadoras que melhorem a experiência do usuário e promovam eficiência. Priorizo o aprendizado contínuo e a colaboração em equipe como valores essenciais na minha carreira.
 
 <div>
   <a href="https://github.com/rodrigueira97">
